@@ -20,8 +20,8 @@ export default function() {
       id: 'urban-living',
       attributes: {
         title: "Urban Living",
-        owner: "Mike Teavee",
-        city: "Seattle",
+        owner: "Arek Bochynski",
+        city: "New York",
         type: "Condo",
         bedrooms: 1,
         image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg",
